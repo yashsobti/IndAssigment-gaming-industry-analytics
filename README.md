@@ -1,3 +1,4 @@
+Individual Assignment- Yash Sobti, Roll No-095
 # Gaming industry analysis: what decides peak concurrent players?
 
 Kaggle notebook: https://www.kaggle.com/code/yashsobti/gaming-industry-analysis-peak-concurrent-players
