@@ -1,6 +1,7 @@
 # Gaming industry analysis: what decides peak concurrent players?
 
 Kaggle notebook: https://www.kaggle.com/code/yashsobti/gaming-industry-analysis-peak-concurrent-players
+
 Data Analytics for Managers using Python and SQL, individual case-based assessment
 Yash Sobti (26PGDM095)
 
